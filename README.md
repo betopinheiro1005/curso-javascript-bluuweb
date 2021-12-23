@@ -12,8 +12,8 @@ Aula 07 - Consumir API pública
 Aula 08 - Criar tabela dinâmica com JSON  
 Aula 09 - Formulário com FetchAPI  
 Aula 10 - Javascript orientado a objetos  
-Aula 11 - Ajax com Vanilla Javascript - Parte 1  
-Aula 12 - Ajax com Vanilla Javascript - Parte 2  
+Aula 11 - Ajax com Vanilla Javascript - XMLHttpRequest - Ler arquivo TXT com JavaScript  
+Aula 12 - Ajax com Vanilla Javascript - Ler arquivo JSON e exibir dados em tabela HTML  
 Aula 13 - Ajax com Vanilla Javascript - Parte 3  
 Aula 14 - Funções invocadas imediatamente  
 Aula 15 - Event Delegation  
