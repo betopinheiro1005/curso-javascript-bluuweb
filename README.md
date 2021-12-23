@@ -1,4 +1,4 @@
-# Curso de Javascript desde cero  
+# Curso de Javascript desde cero 
 ## Bluuweb (Ignacio Gutierrez)  
 ### Lista de aulas  
 
