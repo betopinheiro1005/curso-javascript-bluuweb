@@ -14,7 +14,7 @@ Aula 09 - Formulário com FetchAPI
 Aula 10 - Javascript orientado a objetos  
 Aula 11 - Ajax com Vanilla Javascript - XMLHttpRequest - Ler arquivo TXT com JavaScript  
 Aula 12 - Ajax com Vanilla Javascript - Ler arquivo JSON e exibir dados em tabela HTML  
-Aula 13 - Ajax com Vanilla Javascript - Parte 3  
+Aula 13 - Ajax com Vanilla Javascript - Consumindo uma API pública  
 Aula 14 - Funções invocadas imediatamente  
 Aula 15 - Event Delegation  
 Aula 16 - LocalStorage - Parte 1  
