@@ -1,5 +1,8 @@
 # Curso de Javascript desde cero 
 ## Bluuweb (Ignacio Gutierrez)  
+
+### [Vídoos do curso](https://www.youtube.com/watch?v=Zwcqq-7IDI0&list=PLPl81lqbj-4I11QPam9ApoT7tGbmyBg9P)
+
 ### Lista de aulas  
 
 Aula 01 - Introdução  
